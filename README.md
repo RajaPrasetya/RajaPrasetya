@@ -1,5 +1,17 @@
 ### Hi there 👋
 
+## About Me
+My name is Muhammad Raja Prasetya, also you can call me Raja.
+I am a fast-learning undergraduate student at Mulia University, majoring in Computer Science with a current GPA of 3.80/4.00.
+
+## Skills 
+- Php / Laravel
+- Js / React
+- REST API
+
+## Currently Learning...
+- Dart / Flutter
+- Kotlin / Android Studio
 <!--
 **RajaPrasetya/RajaPrasetya** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
